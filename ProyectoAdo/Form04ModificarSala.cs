@@ -31,6 +31,7 @@ namespace ProyectoAdo
             this.com.Connection = this.cn;
             this.com.CommandType = CommandType.Text;
             this.com.CommandText = "select distinct nombre from sala";
+            //ABRIR CONEXIÓN
             this.cn.Open();
             this.reader = this.com.ExecuteReader();
             while (this.reader.Read())
@@ -38,6 +39,7 @@ namespace ProyectoAdo
                 this.lstsalas.Items.Add(this.reader["nombre"].ToString());
             }
             this.reader.Close();
+            //CERRAR CONEXIÓN
             this.cn.Close();
         }
 

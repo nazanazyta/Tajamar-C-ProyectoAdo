@@ -11,3 +11,16 @@ C:\Users\Nazaret\Repos\ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.pdb
 C:\Users\Nazaret\Repos\ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form02BuscadorEmpleados.resources
 C:\Users\Nazaret\Repos\ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form03EliminarEnfermo.resources
 C:\Users\Nazaret\Repos\ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form04ModificarSala.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\bin\Debug\ProyectoAdo.exe.config
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\bin\Debug\ProyectoAdo.exe
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\bin\Debug\ProyectoAdo.pdb
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.csprojAssemblyReference.cache
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form01PrimerAdo.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form02BuscadorEmpleados.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form03EliminarEnfermo.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form04ModificarSala.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Properties.Resources.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.csproj.GenerateResource.cache
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.csproj.CoreCompileInputs.cache
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.exe
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.pdb
