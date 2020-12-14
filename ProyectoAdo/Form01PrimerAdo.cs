@@ -22,8 +22,10 @@ namespace ProyectoAdo
         {
             InitializeComponent();
             //INSTANCIAMOS LOS OBJETOS
+            //this.cadenaconexion =
+            //    @"Data Source=localhost;Initial Catalog=HOSPITAL;Integrated Security=True";
             this.cadenaconexion =
-                @"Data Source=localhost;Initial Catalog=HOSPITAL;Integrated Security=True";
+                @"Data Source=localhost;Initial Catalog=HOSPITAL;User ID=sa;Password=MCSD2020";
             this.cn = new SqlConnection(this.cadenaconexion);
             this.com = new SqlCommand();
             this.cn.StateChange += Cn_StateChange;

@@ -21,7 +21,8 @@ namespace ProyectoAdo
         public Form03EliminarEnfermo()
         {
             InitializeComponent();
-            String cadena = @"Data Source=localhost;Initial Catalog=HOSPITAL;Integrated Security=True";
+            //String cadena = @"Data Source=localhost;Initial Catalog=HOSPITAL;Integrated Security=True";
+            String cadena = "Data Source=localhost;Initial Catalog=HOSPITAL;User ID=sa;Password=MCSD2020";
             this.cn = new SqlConnection(cadena);
             this.com = new SqlCommand();
             //this.pam = new SqlParameter();

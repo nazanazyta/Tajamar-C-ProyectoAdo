@@ -33,6 +33,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtnuevonombre = new System.Windows.Forms.TextBox();
             this.btnmodificarsala = new System.Windows.Forms.Button();
+            this.lblresultado = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -79,18 +80,28 @@
             this.btnmodificarsala.UseVisualStyleBackColor = true;
             this.btnmodificarsala.Click += new System.EventHandler(this.btnmodificarsala_Click);
             // 
+            // lblresultado
+            // 
+            this.lblresultado.AutoSize = true;
+            this.lblresultado.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.lblresultado.Location = new System.Drawing.Point(327, 310);
+            this.lblresultado.Name = "lblresultado";
+            this.lblresultado.Size = new System.Drawing.Size(0, 29);
+            this.lblresultado.TabIndex = 5;
+            // 
             // Form04ModificarSala
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(598, 398);
+            this.Controls.Add(this.lblresultado);
             this.Controls.Add(this.btnmodificarsala);
             this.Controls.Add(this.txtnuevonombre);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.lstsalas);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
+            this.Margin = new System.Windows.Forms.Padding(7);
             this.Name = "Form04ModificarSala";
             this.Text = "Form04ModificarSala";
             this.ResumeLayout(false);
@@ -105,5 +116,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtnuevonombre;
         private System.Windows.Forms.Button btnmodificarsala;
+        private System.Windows.Forms.Label lblresultado;
     }
 }
