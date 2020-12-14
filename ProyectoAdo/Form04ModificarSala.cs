@@ -20,7 +20,8 @@ namespace ProyectoAdo
         public Form04ModificarSala()
         {
             InitializeComponent();
-            String cadenaconexion = "Data Source=localhost;Initial Catalog=HOSPITAL;Integrated Security=True";
+            //String cadenaconexion = "Data Source=localhost;Initial Catalog=HOSPITAL;Integrated Security=True";
+            String cadenaconexion = "Data Source=localhost;Initial Catalog=HOSPITAL;User ID=sa;Password=MCSD2020";
             this.cn = new SqlConnection(cadenaconexion);
             this.com = new SqlCommand();
             this.CargarSalas();
@@ -51,9 +52,10 @@ namespace ProyectoAdo
             this.com.CommandType = CommandType.Text;
             this.com.CommandText = query;
             this.cn.Open();
-            this.com.ExecuteNonQuery();
+            int update = this.com.ExecuteNonQuery();
             this.cn.Close();
             this.com.Parameters.Clear();
+            this.lblresultado.Text = "Salas modificadas " + update;
             this.CargarSalas();
         }
     }
