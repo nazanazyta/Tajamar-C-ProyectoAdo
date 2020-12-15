@@ -23,7 +23,10 @@ namespace ProyectoAdo
             //Application.Run(new Form05StoredProcedures());
             //Application.Run(new Form06MensajesServidor());
             //Application.Run(new Form07ParametrosSalida());
-            Application.Run(new Form08PlantillaDoctorHospital());
+            //Application.Run(new Form08PlantillaDoctorHospital());
+            //Application.Run(new Form09ClasesEnfermo());
+            //Application.Run(new Form10ClasesEmpleado());
+            Application.Run(new Form11HospitalesPlantilla());
         }
     }
 }

@@ -40,3 +40,10 @@ C:\Users\AlumnoMCSD\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAd
 C:\Users\AlumnoMCSD\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form06MensajesServidor.resources
 C:\Users\AlumnoMCSD\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form07ParametrosSalida.resources
 C:\Users\AlumnoMCSD\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form08PlantillaDoctorHospital.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form05StoredProcedures.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form06MensajesServidor.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form07ParametrosSalida.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form08PlantillaDoctorHospital.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form09ClasesEnfermo.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form10ClasesEmpleado.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form11HospitalesPlantilla.resources

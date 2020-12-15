@@ -47,6 +47,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\EmpleadoContext.cs" />
+    <Compile Include="Data\EnfermoContext.cs" />
+    <Compile Include="Data\HospitalesPlantillaContext.cs" />
     <Compile Include="Form01PrimerAdo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -95,6 +98,27 @@
     <Compile Include="Form08PlantillaDoctorHospital.Designer.cs">
       <DependentUpon>Form08PlantillaDoctorHospital.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form09ClasesEnfermo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form09ClasesEnfermo.Designer.cs">
+      <DependentUpon>Form09ClasesEnfermo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form10ClasesEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10ClasesEmpleado.Designer.cs">
+      <DependentUpon>Form10ClasesEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form11HospitalesPlantilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11HospitalesPlantilla.Designer.cs">
+      <DependentUpon>Form11HospitalesPlantilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Empleado.cs" />
+    <Compile Include="Models\Enfermo.cs" />
+    <Compile Include="Models\Plantilla.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form01PrimerAdo.resx">
@@ -120,6 +144,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form08PlantillaDoctorHospital.resx">
       <DependentUpon>Form08PlantillaDoctorHospital.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form09ClasesEnfermo.resx">
+      <DependentUpon>Form09ClasesEnfermo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10ClasesEmpleado.resx">
+      <DependentUpon>Form10ClasesEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11HospitalesPlantilla.resx">
+      <DependentUpon>Form11HospitalesPlantilla.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
