@@ -47,3 +47,4 @@ C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.F
 C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form09ClasesEnfermo.resources
 C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form10ClasesEmpleado.resources
 C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form11HospitalesPlantilla.resources
+C:\Users\Nazaret\Repos\Tajamar-C-ProyectoAdo\ProyectoAdo\obj\Debug\ProyectoAdo.Form11HospitalesPlantillaPaco.resources
